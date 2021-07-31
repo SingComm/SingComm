@@ -2,9 +2,9 @@ This project open source the data set used in the SingComm paper.
 
 Two datasets were used in Experiment. 
 
-I. Electical Store Dataset.
+I. Electronic Store Dataset.
 
-This experiment was performed using a laptop equipped with a high-end sound card, which collected data from roughly 100 types of electrical appliance in a home appliance market. 
+This experiment was performed using a laptop equipped with a high-end sound card, which collected data from roughly 100 types of electrical appliance in an electronic store. 
 
 Data collection was performed at three different days of different weeks, each of which involved collecting 2-minute acoustic traces sampled at 192kHz. 
 
