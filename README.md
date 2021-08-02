@@ -1,4 +1,4 @@
-This project open source the data set used in the SingComm paper.
+This project open source the data set used in the SingSense-2022 paper.
 
 Two datasets were used in Experiment. 
 
