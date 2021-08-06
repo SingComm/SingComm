@@ -20,3 +20,6 @@ All data can be downloaded for free.
 Now the datasets are being processed to remove private audiable humans voice signals collected. You can access them by the link:
 
 https://drive.google.com/drive/folders/17ebXOXh0OnaNmgDoYcN1H3AprVEG7gtE?usp=sharing
+
+For the space limitation by Google Drive, only parts of data (in total 15 GB) updated in the link. 
+To access full data, you can pull a request here by the "Issues" button.
